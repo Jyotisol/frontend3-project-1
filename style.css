@@ -1,0 +1,238 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+.side-bar{
+    background-color:  #0C0E10;
+ 
+    color: #fff;
+    width: 390px;
+    height: 1117px;
+    font-family: poppins;
+}
+.logo-1 > img{
+    width: 298px;
+    height: 298px;
+     padding-left: 30px;
+     overflow: auto;  
+     margin-top: 30px;
+     margin-left: 30px;
+}
+.logo-1 > p{
+   font-size: 24px;
+   font-weight: 600;
+   line-height: 36px;
+   letter-spacing: 0rem;
+   text-align: center;
+   width: 390px;
+   height: 36px; 
+   margin-top: -22px; 
+}
+   
+.logo-1 > h5 {
+    width: 390px;
+    height: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    color:  #FF2424;
+    text-align: center;
+}
+.Quick-Links{
+
+}
+.Quick-Links h2{
+    width: 390px;
+    height: 30px;
+    padding-top: 20px; 
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.Quick-Links >ol{
+     width: 183px;
+   height: 180px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    align-items: center;
+   display: flex;
+   justify-content: center;
+   flex-direction: column; 
+   display: grid;
+}
+.your-order{
+
+}
+
+.About-Us{
+
+}
+.About-Us h2{
+    width: 390px;
+    height: 36px;
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: center;
+    cursor: pointer;
+      
+}
+.About-Us > ol{
+    width: 183px;
+    height: 180px; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    align-items: center;
+    display: flex;
+     justify-content: center;
+     flex-direction: column;
+     display: grid;
+     margin-left: 20px;
+     margin-top: 20px;
+     padding-top: 20px;
+}
+.nav-bar {
+  
+ background-color: black;
+
+
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-top: 9px;
+    width: 1130px;
+     height: 83px;
+    left: 401px;
+    background: #191D20;
+}
+.search-bar >input{
+    width: 812px;
+   height: 46px;
+   left: 426px;
+   border-radius: 5px;
+  background-color:#272A30;
+  border: none;
+  padding-left: 10px;
+  color: #fff;
+}
+.nav-bar > img{
+    width: 24px;
+    height: 24px;
+
+}
+
+.Signup{
+    width: 176px;
+    height: 46px;
+    background: #FF2424;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+.Login{
+    width: 176px;
+    height: 46px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF2424;
+    cursor: pointer;
+}
+.screen-shot{
+    padding-left: 50px;
+}
+.screen-shot > img{
+    width: 1284px;
+    height: 463px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.screen-shot > h3{
+    color: #fff;
+    margin-top: 40px;
+    width: 69px;
+    height: 36px;
+    cursor: pointer;
+
+}
+.screen-shot > {
+    width: 410px;
+   height: 273px;
+   border-radius: 10px
+
+}
+.burger{
+    padding-left: 9px;
+    padding-top: 9px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #fff;
+    width: 428px;
+      height: 385px;
+
+border-radius: 10px;
+background: #191D20;
+
+
+
+}
+.burger > img{
+    width: 410px;
+height: 273px;
+top: 668px;
+left: 445px;
+border-radius: 10px;
+cursor: pointer;
+
+}
+.burger .bur{
+width: 82px;
+height: 36px;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 5px;
+}
+.rup{
+    width: 75px;
+    height: 30px;
+    
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+     letter-spacing: 0em;
+     text-align: left;
+}
+.plus{
+    width: 40px;
+   height: 140px;
+   padding: 11px;
+   border-radius: 10px;
+   margin-top: 420px;
+   margin-left: 370px;
+   border: 1px solid none;
+   text-align:justify;
+   background: #878787;
+
+}
+.items{
+    display: flex; 
+}
+
+
